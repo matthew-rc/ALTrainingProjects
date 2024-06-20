@@ -1,0 +1,39 @@
+{
+    "id": "65dea3f1-fcf6-4017-bd39-949d218b4ecc",
+    "name": "ALProject1",
+    "publisher": "Default Publisher",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [
+        {
+            "id": "70912191-3C4C-49FC-A1DE-BC6EA1AC9DA6",
+            "name": "Intrastat Core",
+            "publisher": "Microsoft",
+            "version": "24.2.20227.20579"
+        }
+    ],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "24.0.0.0",
+    "idRanges": [
+        {
+            "from": 50100,
+            "to": 50149
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true
+    },
+    "runtime": "13.0",
+    "features": [
+        "NoImplicitWith"
+    ]
+}
